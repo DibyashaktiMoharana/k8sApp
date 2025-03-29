@@ -34,4 +34,4 @@
    curl http://<EXTERNAL-IP>:<PORT>
    ```
 
-   [Download Deployment Files](https://drive.google.com/file/d/1W_b4yx5bMJKRLg8Ywpv7s4yNFD__Gf7B/view?usp=sharing)
+   [Google Drive Video Link](https://drive.google.com/file/d/1W_b4yx5bMJKRLg8Ywpv7s4yNFD__Gf7B/view?usp=sharing)
